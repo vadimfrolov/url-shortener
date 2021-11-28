@@ -12,8 +12,7 @@
   "scripts": {
     "start": "react-scripts start",
     "lint": "eslint ./ --ext .js,.jsx -c ./.eslintrc --fix && prettier --write --ignore-unknown ./src/**/*",
-    "test": "jest",
-    "heroku-postbuild": "react-scripts start"
+    "test": "jest"
   },
   "browserslist": {
     "production": [
