@@ -60,9 +60,9 @@ yarn test
 
 ├── src                    	
 │   ├── css                  	# styles
-│   ├── css                  	# images
+│   ├── img                  	# images
 │   ├── components              # app components
-│   ├── api              		# axios utility
+│   ├── api              	# axios utility
 │   └── utils                  	# utils
 
 ```
