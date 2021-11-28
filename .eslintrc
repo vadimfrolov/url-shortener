@@ -15,7 +15,9 @@
     "node_modules/"
   ],
   "globals": {},
-  "rules": {},
+  "rules": {
+    "react/prop-types": "off"
+  },
   "settings": {
     "import/resolver": {
       "babel-module": {}
